@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "sNq2benVryLjb2CoeRzP/nugiCqhMrvBe6BZlT0LwvY5DBdJ7H2kxts7jeqbKYBQ9PtVPYW+tFuplxUfQTTRag==",
+  "success": true,
+  "projectFilePath": "/home/mayra/Documentos/UPB/CertificacionI/Practice 2/Practice2/Practice2_vscode/Practice2_vscode.csproj",
+  "expectedPackageFiles": [
+    "/home/mayra/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/mayra/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/mayra/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/mayra/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/mayra/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/mayra/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
